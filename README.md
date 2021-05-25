@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Try it out!
+Site: https://photo-search-react.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
